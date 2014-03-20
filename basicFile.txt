@@ -1,1 +1,1 @@
-test-from-instance1
+test-from-instance1.2
